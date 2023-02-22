@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.font-custom {
+    font-family: 'Fredoka One', cursive;
+}
+
+.bg-img {
+    background-image: url('assets/phoenix.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-img-2 {
+    background-image: url('assets/form.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.min-height {
+    min-height: 75vh;
+}
+
+.max-height {
+    max-height: 64px;
+}
+
+.color-custom {
+    color: #d3bdab !important;
+}
+.color-custom-2{
+    color: #7D7F81 !important;
+}
