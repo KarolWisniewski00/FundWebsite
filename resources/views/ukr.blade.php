@@ -7,6 +7,9 @@
     <title>Фенікс повертається до життя</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <meta name="keywords" content="Фенікс повертається до життя, фонд, критичні захворювання, здоров'я, благополуччя, медичні фахівці, волонтери, медична допомога, емоційна підтримка, фінансова допомога, надія, позитивний вплив, здорове життя, задоволення життя">
+    <meta name="description" content="Фенікс повертається до життя - це фонд, який зберігає життя та надає необхідну підтримку людям, які борються з критичними захворюваннями. Наша команда медичних фахівців та волонтерів працює без втоми, щоб забезпечити пацієнтам та їх родинам високоякісну медичну допомогу, емоційну підтримку та фінансову допомогу. Наша місія - дати надію тим, хто бореться за своє життя, і допомогти їм досягти кращого майбутнього. Ми зобов'язані зробити позитивний вплив на життя наших пацієнтів та їх близьких, оскільки ми вважаємо, що кожна людина заслуговує на можливість жити здоровим і задоволеним життям. Відвідайте наш веб-сайт, щоб дізнатися більше про Phoenix Back to Life та нашу роботу.">
+    <meta name="author" content="Karol Wiśniewski">
 </head>
 
 <body>
@@ -18,22 +21,22 @@
                     <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
                         <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
                             <img src="{{asset('assets/logophoenix.png')}}" alt="logo" class="img-fluid max-height">
-                            <span class="fs-4 text-white color-custom font-custom">Фенікс</span>
+                            <span class="fs-4 text-white color-custom">Фенікс</span>
                         </a>
 
                         <ul class="nav nav-pills d-flex align-items-center justify-content-center">
-                            <li class="nav-item"><a href="#" class="nav-link color-custom fw-bold mx-0 mx-md-2">дім</a></li>
-                            <li class="nav-item"><a href="#about" class="nav-link color-custom fw-bold mx-0 mx-md-2">про нас</a></li>
-                            <li class="nav-item"><a href="#donate" class="nav-link color-custom fw-bold mx-0 mx-md-2">пожертвувати</a></li>
-                            <li class="nav-item"><a href="#contact" class="nav-link color-custom fw-bold mx-0 mx-md-2">контакт</a></li>
-                            <li class="nav-item"><a href="{{route('en')}}" class="nav-link color-custom fw-bold mx-0 mx-md-2">EN</a></li>
+                        <li class="nav-item"><a href="#" class="nav-link color-custom fw-bold mx-0 mx-md-2">Дім</a></li>
+                        <li class="nav-item"><a href="#about" class="nav-link color-custom fw-bold mx-0 mx-md-2">Про нас</a></li>
+                        <li class="nav-item"><a href="#donate" class="nav-link color-custom fw-bold mx-0 mx-md-2">Пожертвувати</a></li>
+                        <li class="nav-item"><a href="#contact" class="nav-link color-custom fw-bold mx-0 mx-md-2">Контакт</a></li>
+                        <li class="nav-item"><a href="{{route('en')}}" class="nav-link color-custom fw-bold mx-0 mx-md-2">EN</a></li>
                         </ul>
                     </header>
                 </div>
             </div>
             <div class="my-5 px-5 min-height d-flex justify-content-center align-items-end">
                 <div class="mb-5">
-                    <h1 class="display-1 fw-bold text-white font-custom color-custom" style="letter-spacing: 0.2em;">Фенікс</h1>
+                    <h1 class="display-1 fw-bold text-white color-custom" style="letter-spacing: 0.2em;">Фенікс</h1>
                     <div class="mx-auto">
                         <p class="lead mb-4 text-white color-custom" style="letter-spacing: 0.75em;">повертається до життя</p>
                     </div>
@@ -48,7 +51,7 @@
                 <div class="col-12">
                     <div class="w-100 text-center">
                         <div class="mb-4">
-                            <h1 class="display-1">про нас</h1>
+                            <h1 class="display-1">Про нас</h1>
                         </div>
                         <p style="font-size: 1.5em; line-height: 1.75em; letter-spacing: 0.1em;">Наша організація присвячена рятівництву життя та поліпшенню здоров'я людей, що стикаються з критичними хворобами. Наша команда кваліфікованих та пристрасних медичних працівників та волонтерів працює безперервно, щоб забезпечити пацієнтам та їх родинам необхідну підтримку, включаючи доступ до високоякісної медичної допомоги, емоційної підтримки та фінансової допомоги. Наша місія полягає в тому, щоб дати надію тим, хто бореться за своє життя, та допомогти їм досягти кращої майбутньої. Ми зобов'язуємося зробити позитивний вплив на життя наших пацієнтів та їх близьких, і вважаємо, що кожна людина заслуговує на шанс на здорове та щасливе життя.</p>
                         <a href="/" class="mx-2 d-flex justify-content-center align-items-center text-decoration-none opacity-50">
@@ -72,7 +75,7 @@
                 <div class="col-12">
                     <div class="w-100 text-center">
                         <div class="mb-4">
-                            <h1 class="display-1">пожертвувати</h1>
+                            <h1 class="display-1">Пожертвувати</h1>
                         </div>
                         <div class="border border-danger d-flex justify-content-center align-items-center" style="min-height: 300px;">Here is place for algo from bank</div>
                     </div>
@@ -121,7 +124,7 @@
             </div>
         </div>
         <div class="text-center my-5 py-5">
-            <h3 class="text-muted">1 проспект академіка Карпенка-Карого, офіс 8, Київ, 03134, Україна</h3>
+            <h3 class="text-muted">Украина, 03134, місто  Київ, Корольова  Академіка , будинок 1, офіс  8</h3>
             <div class="text-muted">Ідентифікаційний код юридичної особи: 44979102</div>
             <a href="mailto:info@phoenixfoundiation.com" class="text-muted">info@phoenixfoundiation.com</a>
         </div>
@@ -132,9 +135,9 @@
             <footer class="py-3 my-4">
                 <ul class="nav justify-content-center border-bottom pb-3 mb-3">
                     <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">дім</a></li>
-                    <li class="nav-item"><a href="#about" class="nav-link px-2 text-muted">про нас</a></li>
-                    <li class="nav-item"><a href="#donate" class="nav-link px-2 text-muted">пожертвувати</a></li>
-                    <li class="nav-item"><a href="#contact" class="nav-link px-2 text-muted">контакт</a></li>
+                    <li class="nav-item"><a href="#about" class="nav-link px-2 text-muted">Про нас</a></li>
+                    <li class="nav-item"><a href="#donate" class="nav-link px-2 text-muted">Пожертвувати</a></li>
+                    <li class="nav-item"><a href="#contact" class="nav-link px-2 text-muted">Контакт</a></li>
                     <li class="nav-item"><a href="{{route('en')}}" class="nav-link px-2 text-muted">EN</a></li>
                 </ul>
                 <div class="d-flex justify-content-center align-items-center">

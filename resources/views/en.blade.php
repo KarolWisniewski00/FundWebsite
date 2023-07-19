@@ -7,6 +7,10 @@
     <title>Phoenix back to life</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <meta name="google-site-verification" content="8wh-xjyneTBAx6Tw9Rz-0hEj_9Hm_1NzwsAfVvQVYLw" />
+    <meta name="keywords" content="Phoenix Back to Life, foundation, critical illnesses, health, well-being, medical professionals, volunteers, medical care, emotional support, financial assistance, hope, positive impact, healthy life, fulfilling life">
+    <meta name="description" content="Phoenix Back to Life is a life-saving foundation that provides essential support to individuals struggling with critical illnesses. Our team of medical professionals and volunteers are dedicated to improving the health and well-being of our patients and their families through high-quality medical care, emotional support, and financial assistance. Our mission is to give hope and empower those who are fighting for their lives to achieve a better future. We are committed to making a positive impact on their lives, believing that every person deserves the chance to live a healthy and fulfilling life. Visit our website to learn more about Phoenix Back to Life and our work.">
+    <meta name="author" content="Karol Wiśniewski">
 </head>
 
 <body>

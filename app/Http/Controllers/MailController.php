@@ -14,7 +14,7 @@ class MailController extends Controller
             'name' => 'required',
             'message' => 'required',
         ]);
-        Mail::to('karol.wisniewski2901@gmail.com')->send(new MessageMail($request));
+        Mail::to('info@phoenixfoundiation.com')->send(new MessageMail($request));
         if ($request->lang == 'en'){
             return redirect('/#contact')->with('success', 'Email send');
         }else{

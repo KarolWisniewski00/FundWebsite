@@ -32,7 +32,7 @@ class MessageMail extends Mailable
      */
     public function build()
     {
-        return $this->from('karol.wisniewski2901@gmail.com', $this->data->name)
+        return $this->from('info@phoenixfoundiation.com', $this->data->name)
         ->subject('Message from website')
         ->view('mail',['data'=>$this->data]);
     }
